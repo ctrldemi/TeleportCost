@@ -42,3 +42,6 @@ git clone https://github.com/ctrldemi/TeleportCost.git && cd TeleportCost
 mvn clean package
 ```
 Requires Maven.
+
+## ⭐ Thanks
+A huge "Thank You!" to the creator(s) of [TPPlugin](https://www.spigotmc.org/resources/tp-exp-cost.117452/) who broadly inspired this plugin.
