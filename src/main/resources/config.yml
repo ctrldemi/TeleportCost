@@ -1,0 +1,14 @@
+### Teleport cost settings
+teleport-cost: 5  # Amount of levels/exp required
+cost-type: levels  # Type: 'levels' or 'exp'
+
+# Explanation:
+# levels = experience levels (the green number)
+# exp = raw experience points (the bar progress)
+
+
+# Sound and particle settings
+particle-count: 50 # Default Value: 50
+particle-offset: 1.0 # Default Value: 1.0
+success-sound-pitch: 1.0 # Default Value: 1.0
+fail-sound-pitch: 1.2 # Default Value: 1.2
