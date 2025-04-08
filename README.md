@@ -1,3 +1,4 @@
+![TeleportCost icon](https://hangarcdn.papermc.io/avatars/project/3812.webp?v=1 "icon")
 # TeleportCost  
 A lightweight Minecraft plugin for PaperMC that adds experience costs to teleport commands, complete with some visual flair and sound effects!  
 (Works seamlessly with Xaero's Minimap Waypoints and such, no extra setup needed.)
